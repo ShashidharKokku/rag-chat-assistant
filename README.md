@@ -6,6 +6,9 @@ The application allows users to upload one or more PDF documents and ask questio
 
 ---
 
+
+### 🚀 [Live Demo](https://rag-chat-assistant-7xmva8auqzxqlpaommksrw.streamlit.app/)
+
 ## 🚀 Features
 
 * 📄 Upload multiple PDF documents
